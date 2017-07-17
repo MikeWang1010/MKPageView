@@ -19,3 +19,6 @@
     
     MKPageView *pageView = [[MKPageView alloc]initWithFrame:CGRectMake(0, 64, [UIScreen mainScreen].bounds.size.width, [UIScreen mainScreen].bounds.size.height - 64) pageViewStyle:pageViewStyle titleArray:titleArray controllerArray:vcArray parentVc:self];
     [self.view addSubview:pageView];
+
+
+![image](https://github.com/MikeWang1010/MKPageView/blob/master/pageView.png)
