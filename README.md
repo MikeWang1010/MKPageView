@@ -2,6 +2,8 @@
 自己封装的一个很好用的pageView，类似网易新闻~~~
 
 使用方式
+
+
     self.automaticallyAdjustsScrollViewInsets = NO;//注意：如果有导航控制器一定要加这一句，否则，标题栏则不能正确显示位置
     
     NSMutableArray *vcArray = [NSMutableArray array];
